@@ -13,5 +13,4 @@ I'm an IT student and aspiring software developer who enjoys learning, building 
 - Android Studio
 
 ### ✨ A Little About Me
-Always learning, always building, and turning ideas into projects!t: ...
--->
+Always learning, always building, and turning ideas into projects!
