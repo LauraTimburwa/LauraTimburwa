@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Laura! 👋
 
-<!--
-**LauraTimburwa/LauraTimburwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student and aspiring software developer who enjoys learning, building and exploring new technologies.
 
-Here are some ideas to get you started:
+### 🌱 Currently Working On
+- An Intelligent Timetable Generator.
+- Improving my programming and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠️ Tools & Technologies
+- HTML, CSS & JavaScript
+- Java
+- Git & GitHub
+- Android Studio
+
+### ✨ A Little About Me
+Always learning, always building, and turning ideas into projects!t: ...
 -->
